@@ -1,1 +1,3 @@
 # GuessMyNumber
+
+Simple javascript project.
